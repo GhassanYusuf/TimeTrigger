@@ -1,0 +1,5 @@
+TimeTrigger KEYWORD1
+SetInterval KEYWORD2
+FlipFlop KEYWORD2
+Trigger KEYWORD2
+Reset KEYWORD2
